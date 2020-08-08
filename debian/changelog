@@ -1,11 +1,11 @@
-dwarves-dfsg (1.17-1) focal; urgency=medium
+dwarves-dfsg (1.17-1+system76) focal; urgency=medium
 
   * Backport dwarves 1.17-1 to focal for System76 Mainline
   * Bring in System76.sh
 
- -- Justin Oberdorf <justin.oberdorf@gmail.com>  Sat, 08 Aug 2020 09:40:05 -0400
+ -- Justin Oberdorf <justin.oberdorf@gmail.com>  Sat, 08 Aug 2020 09:41:55 -0400
 
-dwarves-dfsg (1.17-1) unstable; urgency=low
+dwarves-dfsg (1.17-1+system76) unstable; urgency=low
 
   * New upstream release (changes since 1.16):
 
